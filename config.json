@@ -1,0 +1,14 @@
+{
+	"max_vid_time": 60,
+	"delta_thresh": 5,
+	"min_area": 5000, 
+
+	"aws_access_key_id": "Your AWS Access ID",
+	"aws_secret_access_key": "Your AWS Access Key",
+	"s3_bucket": "Your AWS S3 Bucket Name",
+
+	"twilio_sid": "Your Twilio API SID",
+	"twilio_auth": "Your Twilio API Auth Key",
+	"twilio_to": "Your Phone Number",
+	"twilio_from": "Your Twilio Phone Number"
+}
