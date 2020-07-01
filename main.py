@@ -10,9 +10,6 @@ import cv2
 import sys
 import os
 
-# Enter save path if you want to save captures locally.
-savePath = "Enter directory to save files to."
-
 # Generate file name.
 def get_file_name():
     filename = datetime.now().strftime("%d %B %Y %I:%M:%S%p").replace(" ", "-") + ".mp4"
@@ -29,6 +26,9 @@ def signal_handler(sig, frame):
 conf_path = "config.json"
 conf = Conf(conf_path)
 notif = TwilioNotifier(conf)
+
+# Enter save path if you want to save captures locally.
+savePath = conf["save_path"]
 
 # Initialize indicators.
 sent = False

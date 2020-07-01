@@ -10,5 +10,7 @@
 	"twilio_sid": "Your Twilio API SID",
 	"twilio_auth": "Your Twilio API Auth Key",
 	"twilio_to": "Your Phone Number",
-	"twilio_from": "Your Twilio Phone Number"
+	"twilio_from": "Your Twilio Phone Number",
+	
+	"save_path": "Folder to save files into"
 }
