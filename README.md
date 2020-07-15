@@ -33,9 +33,9 @@ To enable support for messaging, AWS S3 and Twilio (or a similar cloud storage p
 
 Refer to the [AWS guide for S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html), for a guide on how to use S3 to store the media files.
 
-Refer to the [https://www.twilio.com/docs/iam/api](Twilio documentation), for a guide on how to use the Twilio API to send messages.
+Refer to the [Twilio documentation](https://www.twilio.com/docs/iam/api), for a guide on how to use the Twilio API to send messages.
 
-To enable sharing on a network folder, refer to the [https://websiteforstudents.com/mount-windows-10-share-on-ubuntu-18-04-16-04/](Ubuntu mounting walkthrough), for a guide on how to mount a shared folder on a Raspberry Pi.
+To enable sharing on a network folder, refer to the [Ubuntu mounting walkthrough](https://websiteforstudents.com/mount-windows-10-share-on-ubuntu-18-04-16-04/), for a guide on how to mount a shared folder on a Raspberry Pi.
 
 
 ### Installing
