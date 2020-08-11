@@ -44,7 +44,7 @@ cap = None
 
 # Start video stream.
 print("Starting camera...")
-vs = VideoStream(usePiCamera=True).start()
+vs = VideoStream(src=0).start()
 time.sleep(5)
 
 # Signal trap to handle keyboard interrupt
