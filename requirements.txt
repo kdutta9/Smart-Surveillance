@@ -7,7 +7,7 @@ idna==2.9
 imutils==0.5.3
 jmespath==0.10.0
 JSON-minify==0.3.0
-numpy==1.18.5
+numpy==1.22.0
 opencv-python==4.2.0.32
 picamera==1.13
 PyJWT==1.7.1
