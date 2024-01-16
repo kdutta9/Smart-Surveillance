@@ -17,4 +17,4 @@ requests==2.31.0
 s3transfer==0.3.3
 six==1.15.0
 twilio==6.42.0
-urllib3==1.26.5
+urllib3==1.26.18
