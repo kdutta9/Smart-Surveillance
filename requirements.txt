@@ -3,7 +3,7 @@ botocore==1.17.8
 certifi==2023.7.22
 chardet==3.0.4
 docutils==0.15.2
-idna==2.9
+idna==3.7
 imutils==0.5.3
 jmespath==0.10.0
 JSON-minify==0.3.0
